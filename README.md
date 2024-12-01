@@ -34,7 +34,7 @@ This model can analyze video footage in real-time and produce vehicle count summ
 
 | Real Time Detection |
 |----------|
-| ![Real time image](images/ml_crop.png)
+| ![Real time image](images/ml_crop.PNG)
 
 ### **Accuracy Graphs and Training Metrics**
 
