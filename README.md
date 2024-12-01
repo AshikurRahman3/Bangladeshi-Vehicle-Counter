@@ -40,7 +40,7 @@ This model can analyze video footage in real-time and produce vehicle count summ
 
 | F1 Curve | PR Curve | Confusion Matrix |
 |----------|----------|------------------|
-| ![F1 Curve](images/f1_curve.png) | ![PR Curve](images/pr_curve.png) | ![Confusion Matrix](images/confusion_matrix_normalized.png) |
+| ![F1 Curve](images/F1_curve.png) | ![PR Curve](images/PR_curve.png) | ![Confusion Matrix](images/confusion_matrix_normalized.png) |
 | Train Batch | Validation Batch |
 | ![Train Batch](images/train_batch0.jpg) | ![Validation Batch](images/val_batch0_labels.jpg) |
 
