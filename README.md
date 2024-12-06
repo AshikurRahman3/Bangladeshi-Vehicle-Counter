@@ -27,6 +27,10 @@ This model can analyze video footage in real-time and produce vehicle count summ
 
 ---
 
+## 🎥 Demo Video
+[![Demo Preview](./screenshots/bangladeshi_vehicle_counter.gif)](./screenshots/bangladeshi_vehicle_counter.mp4)  
+*Click on the image to view it in a larger size.*
+
 
 ## **Screenshots**
 
