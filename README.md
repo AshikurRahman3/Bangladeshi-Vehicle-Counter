@@ -6,13 +6,14 @@ A machine learning project using the YOLOv8n model to detect and count different
 
 ## **Table of Contents**
 
-1. [Overview](#overview)  
-2. [Screenshots](#screenshots) 
-3. [Features](#features)  
-4. [Dataset](#dataset)  
-5. [Model Performance](#model-performance)  
-6. [Technologies Used](#technologies-used)  
-7. [Installation and Usage](#installation-and-usage)  
+1. [Overview](#overview)
+2. [Demo Video](#demo-video)
+3. [Screenshots](#screenshots) 
+4. [Features](#features)  
+5. [Dataset](#dataset)  
+6. [Model Performance](#model-performance)  
+7. [Technologies Used](#technologies-used)  
+8. [Installation and Usage](#installation-and-usage)  
 
 
 ---
@@ -27,7 +28,7 @@ This model can analyze video footage in real-time and produce vehicle count summ
 
 ---
 
-## 🎥 Demo Video
+##  **Demo Video**
 [![Demo Preview](./screenshots/bangladeshi_vehicle_counter.gif)](./screenshots/bangladeshi_vehicle_counter.mp4)  
 *Click on the image to view it in a larger size.*
 
